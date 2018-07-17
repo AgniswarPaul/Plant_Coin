@@ -11,7 +11,7 @@ GPIO.setup(channel, GPIO.IN)
 def callback(channel):
         if GPIO.input(channel):
                 print ("Water not Detected!")
-                os.system( 'python coin_request.py')
+                os.system( 'python coin_request-1.py')
         else:
                 print ("Water Detected!")
 GPIO.add_event_detect(channel, GPIO.BOTH, bouncetime=300)
