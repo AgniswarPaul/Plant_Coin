@@ -6,3 +6,6 @@ Soil moisture sensor detects the moisture of the soil as well as water around th
 A small amount of crypto currency called "plant coin" is rewarded for people who waters plants as required. 
 
 This has been made on "Raspberry Pi 3"
+
+
+More updates are yet to come!!
